@@ -25,5 +25,5 @@ curl "$url" \
   else
     echo "SKIPPING $outdir/$outfile"
   fi
-  
 done
+
